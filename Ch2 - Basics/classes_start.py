@@ -38,9 +38,9 @@ class Motorcycle(Vehicle):
 moto1 = Motorcycle('Gasoline')
 moto1.drive(-1)
 
-print(moto1.wheels)
-print(moto1.enginetype)
-print(moto1.bodystyle)
-print(moto1.speed)
-print(moto1.mode)
+#print(moto1.wheels)
+#print(moto1.enginetype)
+#print(moto1.bodystyle)
+#print(moto1.speed)
+#print(moto1.mode)
 
